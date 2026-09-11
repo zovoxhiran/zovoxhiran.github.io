@@ -1,0 +1,87 @@
+{
+  "title": "AliZoVoX × NekoHiRaN",
+  "ali": {
+    "name": "AliZoVoX",
+    "role": "STREAMER • CREATOR",
+    "image": "assets/alizovox.png",
+    "links": [
+      [
+        "Instagram",
+        "اینستاگرام",
+        "https://www.instagram.com/alizovox/"
+      ],
+      [
+        "YouTube",
+        "یوتیوب",
+        "https://www.youtube.com/@AliZoVoX"
+      ],
+      [
+        "Aparat",
+        "آپارات",
+        "https://www.aparat.com/AliZoVoX"
+      ],
+      [
+        "Kick",
+        "کیک",
+        "https://kick.com/alizovox"
+      ],
+      [
+        "Discord",
+        "دیسکورد",
+        "https://discord.gg/XcjUsUZbrA"
+      ],
+      [
+        "Telegram",
+        "تلگرام",
+        "https://t.me/OfficialZoVoX"
+      ],
+      [
+        "Donate",
+        "دونیت",
+        "https://reymit.ir/alizovox"
+      ]
+    ]
+  },
+  "neko": {
+    "name": "NekoHiRaN",
+    "role": "STREAMER • CREATOR",
+    "image": "assets/nekohiran.webp",
+    "links": [
+      [
+        "Instagram",
+        "اینستاگرام",
+        "https://www.instagram.com/nekohiran/"
+      ],
+      [
+        "YouTube",
+        "یوتیوب",
+        "https://www.youtube.com/@NekoHiran"
+      ],
+      [
+        "Aparat",
+        "آپارات",
+        "https://www.aparat.com/NekoHiran"
+      ],
+      [
+        "Kick",
+        "کیک",
+        "https://kick.com/NekoHiran"
+      ],
+      [
+        "Discord",
+        "دیسکورد",
+        "https://discord.gg/N9zSsTF4d7"
+      ],
+      [
+        "Telegram",
+        "تلگرام",
+        "https://t.me/prodbyhiran"
+      ],
+      [
+        "Donate",
+        "دونیت",
+        "https://reymit.ir/NekoHiran"
+      ]
+    ]
+  }
+}
